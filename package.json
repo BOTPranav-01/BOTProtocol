@@ -1,0 +1,17 @@
+{
+  "name": "botprotocol",
+  "productName": "BOTProtocol",
+  "version": "0.1.0",
+  "description": "SkinForgeAI + RageSenseAI + StreamerAura — a cinematic AI gaming desktop companion.",
+  "main": "src/main.js",
+  "author": "BOTPranav",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron ."
+  },
+  "dependencies": {
+    "electron": "^30.0.0",
+    "obs-websocket-js": "^5.0.6"
+  }
+}
